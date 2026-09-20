@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9db1720d90116606c7b1bc8c",
+  "owner": "yxqcax",
+  "repo": "page-a2e7d6732c288ffbbc1cc852",
+  "title": "白嫖(CCCAT)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a2e7d6732c288ffbbc1cc852",
+      "a": "白嫖(CCCAT)",
+      "b": "2027官方最新地址导航",
+      "entity": "白嫖(CCCAT)",
+      "brand": "白嫖(CCCAT)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "90526e8ee3eb9fbf922ca567499488e7e4d737e0661ee0cb072a4e3bd5ff15ae",
+      "content": {
+        "primary_entity": "白嫖(CCCAT)",
+        "keyword1": "白嫖(CCCAT)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择订阅客户端，手机、电脑与路由器各有适配方案。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "选对套餐再配好客户端，连接体验更顺畅。",
+          "AI_CLOSING_TITLE": "从套餐到连接",
+          "AI_DESCRIPTION": "，白嫖(CCCAT)提供基础版、旗舰版与团队版三档订阅，月付与年付可按需切换。基础版每月 100GB 流量、支持 3 台设备，适合轻量浏览；旗舰版每月 300GB、5 台设备并带 IPLC 专线游戏加速；团队版每月 1000GB、20 台设备，适合小团队共用。挑选时先确认常用设备数量与月流量，再对照订阅周期预算，最后按客户端说明导入订阅即可。",
+          "AI_FEATURES_INTRO": "从套餐额度、设备数量到订阅周期，三个角度帮你快速判断。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，年付 ¥150；旗舰版每月 300GB、5 台设备，年付 ¥350，适合追剧与游戏。",
+          "AI_FEATURE_TEXT_2": "先算清手机、平板、电脑的同时在线数量，再决定 3 台、5 台还是 20 台的团队版方案。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，按月流量需求选额度可避免中途升级或降档。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备定版",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_GUIDE_INTRO": "从选择服务到完成订阅配置，三步即可上手。",
+          "AI_GUIDE_TITLE": "三步使用流程",
+          "AI_HERO_INTRO": "白嫖(CCCAT)提供基础版、旗舰版与团队版订阅，覆盖 3 台到 20 台设备与每月 100GB 至 1000GB 流量，手机、电脑、路由器均可按客户端文档配置使用。",
+          "AI_HERO_SUBTITLE": "多设备多流量订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月付年付灵活切换更省心",
+          "AI_HIGHLIGHT_3": "旗舰版 IPLC 专线游戏优化",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别约 ¥150、¥350 与 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量，在白嫖(CCCAT)三档套餐中选定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配说明，确认设备系统与客户端类型是否匹配。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅信息，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "白嫖(CCCAT) 订阅方案",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。个人日常办公或追剧选基础版，多设备并发或游戏加速选旗舰版，小型团队共享选团队版。",
+          "AI_FAQ_ANSWER_2": "在客户端找到订阅配置或订阅导入入口，将订阅地址粘贴进去，更新节点列表后连接即可。不同客户端的菜单路径有差异，请按所选客户端自带文档操作，遇到格式报错可优先检查订阅地址是否完整。",
+          "AI_FAQ_ANSWER_3": "各档订阅本身已限制同时在线设备数量，超出后新设备无法连接。基础版 3 台、旗舰版 5 台、团队版 20 台，可以在客户端里退出不用的设备或升级套餐来增加设备数。",
+          "AI_FAQ_ANSWER_4": "年付价格分别为 ¥150、¥350、¥850，相当于按月省下约两个月的费用。长期稳定使用可以选年付，短期尝鲜或临时需求选月付更灵活，续费前可以按实际使用情况决定是否转年付。",
+          "AI_FAQ_ANSWER_5": "日常网页与视频，基础版的普通线路节点池够用；需要原生流媒体解锁或游戏加速优化，选旗舰版更合适；团队协作和固定高带宽需求，直接选团队版的 VIP 专属高带宽节点。",
+          "AI_FAQ_INTRO": "套餐对比、订阅导入与设备限制。",
+          "AI_FAQ_QUESTION_1": "三档套餐分别适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "订阅导入客户端的步骤是怎样的？",
+          "AI_FAQ_QUESTION_3": "多设备同时使用会有什么限制？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选更划算？",
+          "AI_FAQ_QUESTION_5": "流量不够用或线路不满意怎么办？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "34yjy6.cn",
+    "host": "34yjy6.cn"
+  },
+  "file_hashes": {
+    "index.html": "7054ceba06ddf23fe7fa9abe4d0cd34af973fbf881963dbd210a02d9827c6c86",
+    "sitemap.xml": "79fc07dc9ba8ff46a1eb0cc233995ec9b30ac836321f4428f26e14458d055797",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f33eed2ac64dd445f7e3373502a26cb86485dce27638950376473d606c661a4e",
+    "robots.txt": "29e8550b39403c3f0f41a53f2973547fec9093aee5bdce2a5d6f1abb49eac670",
+    "170334146d841a980e92c6a93522891d.txt": "60f78796ece63dbe08a3e747c8e0e00b3b52d88b7283de977bb86114269e6fd2"
+  },
+  "revision": "41bf8068591c211bb82502b5351325f62a3393e215a34a8427e058e12c39bc80"
+}
